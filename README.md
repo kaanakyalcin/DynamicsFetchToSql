@@ -17,3 +17,8 @@ public class ReturnObject
     public bool IsHasError { get; set; }
     public string Exception { get; set; }
 }
+
+NOTE : 
+
+To the checking Fetch XML structure, I create an azure blob container and upload a xsd file to this blob. 
+You can explore the xsd file from this link : https://crmfetch.blob.core.windows.net/files/fetch.xsd
