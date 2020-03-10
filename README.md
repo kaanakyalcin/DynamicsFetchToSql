@@ -1,5 +1,5 @@
 # DynamicsFetchToSql
-Convert From Dynamics CRM Fetch string to SQL Query
+Convert From Dynamics CRM Fetch XML string to SQL Query
 
 It is a simple project for convert Fetch XML string to SQL Query.
 2 projects are included in the solution. One of them is an engine and another one is an API project.
