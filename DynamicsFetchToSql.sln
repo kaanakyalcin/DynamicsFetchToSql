@@ -14,8 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{6AA30D33-85FC-4C10-A3D4-02E90A0E81F4}"
 	ProjectSection(SolutionItems) = preProject
-		Images\browser test.png = Images\browser test.png
-		Images\postman test.png = Images\postman test.png
+		Images\browser_test.png = Images\browser_test.png
+		Images\postman_test.png = Images\postman_test.png
 	EndProjectSection
 EndProject
 Global
