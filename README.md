@@ -1,4 +1,4 @@
-# DynamicsFetchToSql
+# Dynamics CRM Fetch XML Query To Sql Query
 ### Convert From Dynamics CRM Fetch XML string to SQL Query
 
 ![Convert From Dynamics CRM Fetch XML string to SQL Query postman sample](Images/postman_test.png)
